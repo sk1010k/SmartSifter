@@ -27,7 +27,6 @@ setup(
     long_description=long_description,  # Optional
     url='https://github.com/sk1010k/SmartSifter',  # Optional
     author='sk1010k',  # Optional
-    author_email='sk101010k@gmail.com',  # Optional
     license='MIT', # optional
     classifiers=[  # Optional
         'Development Status :: 3 - Alpha',
