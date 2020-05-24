@@ -22,7 +22,7 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='smartsifter',  # Required
-    version='0.1.0.dev1',  # Required
+    version='0.1.1.dev1',  # Required
     description='Python implementation of SmartSifter',  # Required
     long_description=long_description,  # Optional
     url='https://github.com/sk1010k/SmartSifter',  # Optional
